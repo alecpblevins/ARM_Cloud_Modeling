@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+.conda/
+venv/
+
+# ARM data
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.log
