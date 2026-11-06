@@ -29,3 +29,6 @@ Thumbs.db
 
 #Data
 ARM_DATA/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
