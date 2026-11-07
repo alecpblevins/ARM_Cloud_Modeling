@@ -32,3 +32,6 @@ ARM_DATA/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+#Exploratory pipelines
+pipelines/
